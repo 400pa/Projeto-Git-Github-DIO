@@ -1,0 +1,23 @@
+# Anotações importantes sobre Git/Github
+
+Link para download https://git-scm.com
+
+## Existem duas maneiras de abrir o git
+Git bash(Mais usado)
+Git gui
+
+## Passo a Passo para criação,clone e exportação do repositório
+
+1. Criar um rep. no GIT com nome e descrição
+2. Add. a Readme File e criar
+3. O arquivo Readme pode ser editado pelo proprio Git em um icone de lápis
+4. Após a edição, não esquecer de commitar na aba abaixo "criar commit"
+5. Code(Icone verde) - Para copiar o link remote e clonar(pode ser o link HTTPS)
+6. Preparar uma pasta na maquina para receber o rep.
+7. Com o botão do mouse direito,click e vai na aba "git bash here"
+8. Comandar " git clone + https(link copiado no step 5)
+9. Comandar "git add." - Para adicionar todos os arquivos
+10.Comandar - git commit -m"colocar uma mensagem aqui" e dar enter
+11. Git push origin main  - para subir o rep. no servidor do github
+
+## Simbora
